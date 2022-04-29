@@ -1,0 +1,13 @@
+Root,File,Source
+Revision,Author,CheckLevel,Variant,High Level Error
+Messages,MISRA-C
+Messages,Low Level Error
+Messages,Accepted Messages,MKS Revision
+Checked by QAC,CI Source Code
+approved,CI ReInspection,CI Open Points,CI Open Points
+Status,MKS Revision
+Basis for CI,Testobject,MKS Revision
+Checked by TESSY,Module Test Status,Tested Function,Not Tested Funtions,Not Executed Tests,Tests with CTE Used,C1 100%,C1 >=80%,C1 <80,C1 na,
+APP_WABCO,lpagrk.c,1.26,n r, sandeep (z0096814), ,no,0,2,3,0,ok,Y,N,0,ok,ok-1,LPAGRK,ok-2,ok,5,0,0,0,2,2,1,0,
+APP_WABCO,lpxssteu.c,1.9,n r, sandeep (z0096814), ,no,0,14,3,0,ok,Y,N,0,ok,old,LPXSSTEU,old,ok,1,0,0,0,0,1,0,0,
+APP_WABCO,ecc_lut.c,1.53,n r, sandeep (z0096814),acg_tl_3_2,no,0,0,0,36,ok, , , , , , , , , , , , , , , , ,
